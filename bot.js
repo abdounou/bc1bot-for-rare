@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`$help`,"By OmarNinga")
+client.user.setGame(`1bc`,"")
 client.user.setStatus("dnd")
 });
 
@@ -103,4 +103,4 @@ client.on("message", async message => {
 });
 
 
-client.login("NzIyNTYyODk0ODA5NTMwNDI5.XuvFgA.O4fM6l13P_yiBb_HCW8TzHRhqWo");
+client.login("NzIyNTYyODk0ODA5NTMwNDI5.XuvLeA.6_eyP7ODIW-Q7kz2FRnAmAwsFUk");
