@@ -1,5 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
+
 var prefix = "4";
 
 client.on("message", message => {
@@ -30,4 +31,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login("NzIyNzUxMjY4MDQ4ODYzMjMy.XuuBoQ.pl5SZkzVzMgaWp9efEqUY-ETtsM");
+client.login("NzIyNTYyODk0ODA5NTMwNDI5.Xuu5aw.9L90Ysb80gX5yUp0MpOc3uRq9QI");
